@@ -1,3 +1,3 @@
 # MachineLearning
 
-My projects using python and sklearn to study machine learning
+My projects using python and scikit-learn to study machine learning
