@@ -1,2 +1,5 @@
 cartao-credito/creditcard.csv
 .env
+distrato/infos.csv
+distrato/infos.xlsx
+distrato/teste.ipynb
